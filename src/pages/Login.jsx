@@ -170,8 +170,6 @@ const Login = () => {
           </p>
         </div>
 
-       
-
         <div className="back-to-home">
           <Link to="/" className="back-link">
             ← Back to Home
