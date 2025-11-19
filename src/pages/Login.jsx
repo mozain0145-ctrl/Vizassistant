@@ -170,12 +170,7 @@ const Login = () => {
           </p>
         </div>
 
-        <div className="demo-credentials">
-          <h4>Demo Credentials:</h4>
-          <p>Email: demo@datainsight.com</p>
-          <p>Password: demo123</p>
-          <p className="demo-note">Or use Google Sign-in for quick access</p>
-        </div>
+       
 
         <div className="back-to-home">
           <Link to="/" className="back-link">
